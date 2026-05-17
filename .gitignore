@@ -42,6 +42,9 @@ next-env.d.ts
 
 # AI Context files
 context/
+**/context/
+feature-specs/
+**/feature-specs/
 AGENTS.md
 CLAUDE.md
 agents.md
