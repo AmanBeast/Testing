@@ -46,3 +46,21 @@ AGENTS.md
 CLAUDE.md
 agents.md
 claude.md
+02-editor.md
+03-auth.md
+04-design-system.md
+05-realtime.md
+06-persistence.md
+07-version-history.md
+08-ai-features.md
+09-settings.md
+10-deployment.md
+
+# clerk configuration (can include secrets)
+/.clerk/
+
+# agent templates and cache
+.agents/
+**/.agents/
+skills-lock.json
+**/skills-lock.json
